@@ -1,0 +1,11 @@
+{
+  "name": "data-flow-test",
+  "version": "0.0.1",
+  "description": "The data flow testing framework that makes your unit test cases more efficient and tidy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Lei",
+  "license": "MIT"
+}
